@@ -1,5 +1,5 @@
 # Pi-hole Blocklist (Auto-generated)
-# Terakhir diupdate: 2026-07-05 14:46:34
+# Terakhir diupdate: 2026-07-08 07:01:44
 
 0.0.0.0 037jav.com
 0.0.0.0 12jav.net
@@ -26,7 +26,9 @@
 0.0.0.0 ads.aceweb.net
 0.0.0.0 ads.movieweb.com
 0.0.0.0 ads.ultraviewer.net
+0.0.0.0 affiliates.neteller.com
 0.0.0.0 agenbokep.store
+0.0.0.0 agengacor.org
 0.0.0.0 ahjav.com
 0.0.0.0 aldiuk-sale.luxuryloungewearllc.com
 0.0.0.0 amateurjav.com
@@ -53,6 +55,7 @@
 0.0.0.0 b.javbucks.com
 0.0.0.0 babygirl18xx2023.hotbokep-hotvideo.info
 0.0.0.0 babyvideo.hotbokep-hotvideo.info
+0.0.0.0 bandarbokep.boats
 0.0.0.0 bd1.actionjav.com
 0.0.0.0 bejav-net.zproxy.org
 0.0.0.0 bejav.net
@@ -148,6 +151,8 @@
 0.0.0.0 bokepsan2.click
 0.0.0.0 bokepseleb.site
 0.0.0.0 bokepsexindonesia.icu
+0.0.0.0 bokepsimontok.in.net
+0.0.0.0 bokepstw.in.net
 0.0.0.0 bokepsubindo.icu
 0.0.0.0 bokepsun1.click
 0.0.0.0 bokepsusu.icu
@@ -191,8 +196,10 @@
 0.0.0.0 chaturbatewebcams.com
 0.0.0.0 chocolissimo.lorenta.sbs
 0.0.0.0 cloudstorageweb.info
+0.0.0.0 cneteurope.122.2o7.net
 0.0.0.0 coliriodemacho.com.br
 0.0.0.0 colisismo.fr
+0.0.0.0 colmekan.site
 0.0.0.0 cosplayjav.pl
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 counters.freewebs.com
@@ -204,10 +211,13 @@
 0.0.0.0 de.djav.org
 0.0.0.0 de.xxxfilmekingyen.com
 0.0.0.0 dekajav.com
+0.0.0.0 demo.pinetech.vn
 0.0.0.0 desibokep20xx.hotbokep-hotvideo.info
 0.0.0.0 desigirlxx.hotbokep-hotvideo.info
+0.0.0.0 dicrotin.com
 0.0.0.0 diendanjav.com
 0.0.0.0 djav.org
+0.0.0.0 dobbenetes.com
 0.0.0.0 dogjav.com
 0.0.0.0 donewellschema.com
 0.0.0.0 dotgporn.gayjavporn.com
@@ -224,6 +234,7 @@
 0.0.0.0 elanactivewear.com
 0.0.0.0 elitejavhd.com
 0.0.0.0 en-pornoreino.redjavtube.com
+0.0.0.0 en.wiktionary.org
 0.0.0.0 enter.javhd.com
 0.0.0.0 eporner.com
 0.0.0.0 erobokep.com
@@ -294,6 +305,7 @@
 0.0.0.0 govellyjewellery.com
 0.0.0.0 grandeweddings.com
 0.0.0.0 grannymommy.xnxxjav.org
+0.0.0.0 gserv.cneteu.net
 0.0.0.0 gudangdownloadbokep.com
 0.0.0.0 haijav.com
 0.0.0.0 hajimekikaku.com
@@ -330,6 +342,7 @@
 0.0.0.0 hub.bokep.su
 0.0.0.0 hus.hotbokep-hotvideo.info
 0.0.0.0 i.unjav.com
+0.0.0.0 iclik.pro
 0.0.0.0 id.reifenackteweiber.com
 0.0.0.0 ie2.javquick.com
 0.0.0.0 ijavhd-com.pornsearch.info
@@ -354,6 +367,7 @@
 0.0.0.0 img.videojav.com
 0.0.0.0 img2.javmost.com
 0.0.0.0 indo-bokepz.top
+0.0.0.0 indo18plus.com
 0.0.0.0 indojavstream.com
 0.0.0.0 inibokep.monster
 0.0.0.0 inspireddisk.javiervilalta.com
@@ -854,7 +868,10 @@
 0.0.0.0 kaidokdiaodwewarewe.site
 0.0.0.0 kasurbokep.com
 0.0.0.0 kebokepanku.fun
+0.0.0.0 kieli.net
 0.0.0.0 kikoopoasoaiwweweoisd.site
+0.0.0.0 kinetek-motor.com
+0.0.0.0 kinetekmotor.com
 0.0.0.0 kingjav.us
 0.0.0.0 kioiaodioadpoadeweiok.site
 0.0.0.0 kissjav-com.zproxy.org
@@ -867,6 +884,7 @@
 0.0.0.0 kontol.in
 0.0.0.0 kontolbesar.top
 0.0.0.0 kontolin69.top
+0.0.0.0 kwai.com
 0.0.0.0 lcolissimo.fr
 0.0.0.0 legjava.com
 0.0.0.0 legjava.pro
@@ -884,6 +902,7 @@
 0.0.0.0 m.javhd.com
 0.0.0.0 m.playmatewebcams.streamray.com
 0.0.0.0 magejavascripts.com
+0.0.0.0 mail.netein.com
 0.0.0.0 malewebcams.com
 0.0.0.0 managewebappsecureaccntswbsd8hoisdg.fdjw456udfhfdkg5.com
 0.0.0.0 managewebappsosdg90hoi3q2sdg.fdhjq45usdfgdfj.com
@@ -896,10 +915,13 @@
 0.0.0.0 memeksiana.wiki
 0.0.0.0 metrics.theweathernetwork.com
 0.0.0.0 mexicolivecams.com
+0.0.0.0 microsoftinternetexplorer.112.2o7.net
 0.0.0.0 midwestsewers.com
 0.0.0.0 milfjav.com
 0.0.0.0 milfthreesome.pro
 0.0.0.0 moengagewebsdk.imgix.net
+0.0.0.0 montok.danske.monster
+0.0.0.0 montok.wiki
 0.0.0.0 morewebcams.com
 0.0.0.0 motoviewer.ru
 0.0.0.0 movieweb.us.intellitxt.com
@@ -912,6 +934,12 @@
 0.0.0.0 nakedlivewebcams.com
 0.0.0.0 narrowbroccoli.davidatrent.com
 0.0.0.0 nefernewellness.com
+0.0.0.0 netech.postaffiliatepro.com
+0.0.0.0 neteco.fr.intellitxt.com
+0.0.0.0 netete-corevia-soft.com
+0.0.0.0 netextra.hu
+0.0.0.0 neteye.media
+0.0.0.0 netto-tradelinetech.com
 0.0.0.0 newebonyfuck.com
 0.0.0.0 neweed.org
 0.0.0.0 neweggstats.com
@@ -921,6 +949,8 @@
 0.0.0.0 newjavxxx.com
 0.0.0.0 news.tokimeki-s.com
 0.0.0.0 nichewebcams.com
+0.0.0.0 nineteenporn.com
+0.0.0.0 nineteentube.com
 0.0.0.0 ninewestpolska.pl
 0.0.0.0 njav.tv
 0.0.0.0 njavtv.com
@@ -932,9 +962,14 @@
 0.0.0.0 ohjavporn.com
 0.0.0.0 onejav.com
 0.0.0.0 onejav.online
+0.0.0.0 onetech38.com
+0.0.0.0 onlineteen.live
 0.0.0.0 onlinewebfind.com
+0.0.0.0 onlybokep.com
 0.0.0.0 onlyjavhd.com
 0.0.0.0 ontheweb.com
+0.0.0.0 openinternetexchange.com
+0.0.0.0 openinternetexchange.net
 0.0.0.0 opjav.com
 0.0.0.0 ourjav.com
 0.0.0.0 owpeoaidowepoqewe.site
@@ -956,7 +991,10 @@
 0.0.0.0 phimsexjavhd.com
 0.0.0.0 phimsexjavhd.one
 0.0.0.0 pics.javbtc.com
+0.0.0.0 pinetech.vn
 0.0.0.0 pintubokep.com
+0.0.0.0 planetemontre.info
+0.0.0.0 planetescort.com
 0.0.0.0 playbokep.cv
 0.0.0.0 playbokep.fun
 0.0.0.0 playbokep.sbs
@@ -998,6 +1036,7 @@
 0.0.0.0 rexbokep.net
 0.0.0.0 roughthreesome.com
 0.0.0.0 roundcubewebmailupgrade77435.s3.us-east-2.amazonaws.com
+0.0.0.0 rtpsupergacor.org
 0.0.0.0 ruangbokep.rest
 0.0.0.0 s.djav.org
 0.0.0.0 s10.watchfreejavonline.com
@@ -1023,7 +1062,19 @@
 0.0.0.0 showdewebcams.com.ar
 0.0.0.0 showjav.com
 0.0.0.0 showmewebcams.com
+0.0.0.0 simontok.autos
+0.0.0.0 simontok.boats
+0.0.0.0 simontok.lat
 0.0.0.0 simontok.plus
+0.0.0.0 simontok.quest
+0.0.0.0 simontok.taxi
+0.0.0.0 simontok.yachts
+0.0.0.0 simontoks.com
+0.0.0.0 simontoks.us
+0.0.0.0 simontoks.world
+0.0.0.0 simontokx.art
+0.0.0.0 simontokx.cfd
+0.0.0.0 simontokx.quest
 0.0.0.0 situsbokep.icu
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 slim-jewel-5e4e.neerojdaya-finefurniture.workers.dev
@@ -1045,6 +1096,7 @@
 0.0.0.0 sys.jave.xyz
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t2vlxx.hotbokep-hotvideo.info
+0.0.0.0 tantenakal.net
 0.0.0.0 techniczneweryfikacja24-ux.github.io
 0.0.0.0 teensfirstthreesome.com
 0.0.0.0 theblakewelt.shop
@@ -1060,6 +1112,7 @@
 0.0.0.0 thewestgrove.shop
 0.0.0.0 threesomepornvideos.com
 0.0.0.0 thumbs.javporno.net
+0.0.0.0 tiava.com
 0.0.0.0 timekiller.com
 0.0.0.0 timewest.org
 0.0.0.0 tn.vjav.com
@@ -1146,6 +1199,7 @@
 0.0.0.0 xemphimjav.net
 0.0.0.0 xemsexjav.com
 0.0.0.0 xemsexjav.lat
+0.0.0.0 xhamster.com
 0.0.0.0 xjav.tube
 0.0.0.0 xjavhdporn.com
 0.0.0.0 xlivewebcams.com

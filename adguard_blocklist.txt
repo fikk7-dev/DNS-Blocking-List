@@ -1,5 +1,5 @@
 ! AdGuard Blocklist (Auto-generated)
-! Terakhir diupdate: 2026-07-05 14:46:34
+! Terakhir diupdate: 2026-07-08 07:01:44
 
 ||037jav.com^
 ||12jav.net^
@@ -26,7 +26,9 @@
 ||ads.aceweb.net^
 ||ads.movieweb.com^
 ||ads.ultraviewer.net^
+||affiliates.neteller.com^
 ||agenbokep.store^
+||agengacor.org^
 ||ahjav.com^
 ||aldiuk-sale.luxuryloungewearllc.com^
 ||amateurjav.com^
@@ -53,6 +55,7 @@
 ||b.javbucks.com^
 ||babygirl18xx2023.hotbokep-hotvideo.info^
 ||babyvideo.hotbokep-hotvideo.info^
+||bandarbokep.boats^
 ||bd1.actionjav.com^
 ||bejav-net.zproxy.org^
 ||bejav.net^
@@ -148,6 +151,8 @@
 ||bokepsan2.click^
 ||bokepseleb.site^
 ||bokepsexindonesia.icu^
+||bokepsimontok.in.net^
+||bokepstw.in.net^
 ||bokepsubindo.icu^
 ||bokepsun1.click^
 ||bokepsusu.icu^
@@ -191,8 +196,10 @@
 ||chaturbatewebcams.com^
 ||chocolissimo.lorenta.sbs^
 ||cloudstorageweb.info^
+||cneteurope.122.2o7.net^
 ||coliriodemacho.com.br^
 ||colisismo.fr^
+||colmekan.site^
 ||cosplayjav.pl^
 ||counter.advancewebhosting.com^
 ||counters.freewebs.com^
@@ -204,10 +211,13 @@
 ||de.djav.org^
 ||de.xxxfilmekingyen.com^
 ||dekajav.com^
+||demo.pinetech.vn^
 ||desibokep20xx.hotbokep-hotvideo.info^
 ||desigirlxx.hotbokep-hotvideo.info^
+||dicrotin.com^
 ||diendanjav.com^
 ||djav.org^
+||dobbenetes.com^
 ||dogjav.com^
 ||donewellschema.com^
 ||dotgporn.gayjavporn.com^
@@ -224,6 +234,7 @@
 ||elanactivewear.com^
 ||elitejavhd.com^
 ||en-pornoreino.redjavtube.com^
+||en.wiktionary.org^
 ||enter.javhd.com^
 ||eporner.com^
 ||erobokep.com^
@@ -294,6 +305,7 @@
 ||govellyjewellery.com^
 ||grandeweddings.com^
 ||grannymommy.xnxxjav.org^
+||gserv.cneteu.net^
 ||gudangdownloadbokep.com^
 ||haijav.com^
 ||hajimekikaku.com^
@@ -330,6 +342,7 @@
 ||hub.bokep.su^
 ||hus.hotbokep-hotvideo.info^
 ||i.unjav.com^
+||iclik.pro^
 ||id.reifenackteweiber.com^
 ||ie2.javquick.com^
 ||ijavhd-com.pornsearch.info^
@@ -354,6 +367,7 @@
 ||img.videojav.com^
 ||img2.javmost.com^
 ||indo-bokepz.top^
+||indo18plus.com^
 ||indojavstream.com^
 ||inibokep.monster^
 ||inspireddisk.javiervilalta.com^
@@ -854,7 +868,10 @@
 ||kaidokdiaodwewarewe.site^
 ||kasurbokep.com^
 ||kebokepanku.fun^
+||kieli.net^
 ||kikoopoasoaiwweweoisd.site^
+||kinetek-motor.com^
+||kinetekmotor.com^
 ||kingjav.us^
 ||kioiaodioadpoadeweiok.site^
 ||kissjav-com.zproxy.org^
@@ -867,6 +884,7 @@
 ||kontol.in^
 ||kontolbesar.top^
 ||kontolin69.top^
+||kwai.com^
 ||lcolissimo.fr^
 ||legjava.com^
 ||legjava.pro^
@@ -884,6 +902,7 @@
 ||m.javhd.com^
 ||m.playmatewebcams.streamray.com^
 ||magejavascripts.com^
+||mail.netein.com^
 ||malewebcams.com^
 ||managewebappsecureaccntswbsd8hoisdg.fdjw456udfhfdkg5.com^
 ||managewebappsosdg90hoi3q2sdg.fdhjq45usdfgdfj.com^
@@ -896,10 +915,13 @@
 ||memeksiana.wiki^
 ||metrics.theweathernetwork.com^
 ||mexicolivecams.com^
+||microsoftinternetexplorer.112.2o7.net^
 ||midwestsewers.com^
 ||milfjav.com^
 ||milfthreesome.pro^
 ||moengagewebsdk.imgix.net^
+||montok.danske.monster^
+||montok.wiki^
 ||morewebcams.com^
 ||motoviewer.ru^
 ||movieweb.us.intellitxt.com^
@@ -912,6 +934,12 @@
 ||nakedlivewebcams.com^
 ||narrowbroccoli.davidatrent.com^
 ||nefernewellness.com^
+||netech.postaffiliatepro.com^
+||neteco.fr.intellitxt.com^
+||netete-corevia-soft.com^
+||netextra.hu^
+||neteye.media^
+||netto-tradelinetech.com^
 ||newebonyfuck.com^
 ||neweed.org^
 ||neweggstats.com^
@@ -921,6 +949,8 @@
 ||newjavxxx.com^
 ||news.tokimeki-s.com^
 ||nichewebcams.com^
+||nineteenporn.com^
+||nineteentube.com^
 ||ninewestpolska.pl^
 ||njav.tv^
 ||njavtv.com^
@@ -932,9 +962,14 @@
 ||ohjavporn.com^
 ||onejav.com^
 ||onejav.online^
+||onetech38.com^
+||onlineteen.live^
 ||onlinewebfind.com^
+||onlybokep.com^
 ||onlyjavhd.com^
 ||ontheweb.com^
+||openinternetexchange.com^
+||openinternetexchange.net^
 ||opjav.com^
 ||ourjav.com^
 ||owpeoaidowepoqewe.site^
@@ -956,7 +991,10 @@
 ||phimsexjavhd.com^
 ||phimsexjavhd.one^
 ||pics.javbtc.com^
+||pinetech.vn^
 ||pintubokep.com^
+||planetemontre.info^
+||planetescort.com^
 ||playbokep.cv^
 ||playbokep.fun^
 ||playbokep.sbs^
@@ -998,6 +1036,7 @@
 ||rexbokep.net^
 ||roughthreesome.com^
 ||roundcubewebmailupgrade77435.s3.us-east-2.amazonaws.com^
+||rtpsupergacor.org^
 ||ruangbokep.rest^
 ||s.djav.org^
 ||s10.watchfreejavonline.com^
@@ -1023,7 +1062,19 @@
 ||showdewebcams.com.ar^
 ||showjav.com^
 ||showmewebcams.com^
+||simontok.autos^
+||simontok.boats^
+||simontok.lat^
 ||simontok.plus^
+||simontok.quest^
+||simontok.taxi^
+||simontok.yachts^
+||simontoks.com^
+||simontoks.us^
+||simontoks.world^
+||simontokx.art^
+||simontokx.cfd^
+||simontokx.quest^
 ||situsbokep.icu^
 ||sjremetrics.java.com^
 ||slim-jewel-5e4e.neerojdaya-finefurniture.workers.dev^
@@ -1045,6 +1096,7 @@
 ||sys.jave.xyz^
 ||t.notif-colissimo-laposte.info^
 ||t2vlxx.hotbokep-hotvideo.info^
+||tantenakal.net^
 ||techniczneweryfikacja24-ux.github.io^
 ||teensfirstthreesome.com^
 ||theblakewelt.shop^
@@ -1060,6 +1112,7 @@
 ||thewestgrove.shop^
 ||threesomepornvideos.com^
 ||thumbs.javporno.net^
+||tiava.com^
 ||timekiller.com^
 ||timewest.org^
 ||tn.vjav.com^
@@ -1146,6 +1199,7 @@
 ||xemphimjav.net^
 ||xemsexjav.com^
 ||xemsexjav.lat^
+||xhamster.com^
 ||xjav.tube^
 ||xjavhdporn.com^
 ||xlivewebcams.com^
