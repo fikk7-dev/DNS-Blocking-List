@@ -1,5 +1,5 @@
 # Pi-hole Blocklist (Auto-generated)
-# Terakhir diupdate: 2026-07-08 07:01:44
+# Terakhir diupdate: 2026-07-18 13:16:08
 
 0.0.0.0 037jav.com
 0.0.0.0 12jav.net
@@ -52,6 +52,7 @@
 0.0.0.0 avtub.today
 0.0.0.0 avtub.wiki
 0.0.0.0 awedaasqeewed.site
+0.0.0.0 azewerynip.site
 0.0.0.0 b.javbucks.com
 0.0.0.0 babygirl18xx2023.hotbokep-hotvideo.info
 0.0.0.0 babyvideo.hotbokep-hotvideo.info
@@ -65,12 +66,16 @@
 0.0.0.0 bestjavporn.me
 0.0.0.0 bestjavporn.org
 0.0.0.0 bestnewetires.com
+0.0.0.0 bewenlocki.cyou
 0.0.0.0 bilibili.tv
 0.0.0.0 blackedjav.com
 0.0.0.0 blogjav.net
 0.0.0.0 blondewebcam.fchat.net
 0.0.0.0 blondewebcams.com
+0.0.0.0 blowjobit.com
+0.0.0.0 blowjobs.pro
 0.0.0.0 bluewebcams.com
+0.0.0.0 blueweqatar.com
 0.0.0.0 bluewhaleweb.com
 0.0.0.0 bokep-jepang.co
 0.0.0.0 bokep.filme.monster
@@ -178,6 +183,7 @@
 0.0.0.0 brutaljav.com
 0.0.0.0 bucoliqqcally.info
 0.0.0.0 buscadordewebcams.com
+0.0.0.0 buywinesonline.com
 0.0.0.0 c1.cdnjav.com
 0.0.0.0 c2.cdnjav.com
 0.0.0.0 c3.cdnjav.com
@@ -197,13 +203,18 @@
 0.0.0.0 chocolissimo.lorenta.sbs
 0.0.0.0 cloudstorageweb.info
 0.0.0.0 cneteurope.122.2o7.net
+0.0.0.0 colieromatu.pro
+0.0.0.0 colifimboc.cyou
+0.0.0.0 colinsantos.com
 0.0.0.0 coliriodemacho.com.br
 0.0.0.0 colisismo.fr
 0.0.0.0 colmekan.site
+0.0.0.0 colmektube.cc
 0.0.0.0 cosplayjav.pl
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 counters.freewebs.com
 0.0.0.0 crocolist.com
+0.0.0.0 cumguru.com
 0.0.0.0 cumswallowclips.com
 0.0.0.0 cumswallowingmovies.co
 0.0.0.0 cumswallowingmovies.org
@@ -287,6 +298,7 @@
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewebsexcam.org
 0.0.0.0 freewebtown.com
+0.0.0.0 freya-jewellery.com
 0.0.0.0 frosinonewesternshow.it
 0.0.0.0 fulljavporn.pro
 0.0.0.0 gadgetreviewer.org
@@ -305,8 +317,10 @@
 0.0.0.0 govellyjewellery.com
 0.0.0.0 grandeweddings.com
 0.0.0.0 grannymommy.xnxxjav.org
+0.0.0.0 grid.id
 0.0.0.0 gserv.cneteu.net
 0.0.0.0 gudangdownloadbokep.com
+0.0.0.0 guqrewesd.site
 0.0.0.0 haijav.com
 0.0.0.0 hajimekikaku.com
 0.0.0.0 hayjav.com
@@ -865,6 +879,7 @@
 0.0.0.0 join.javhd.com
 0.0.0.0 joliewebcams.com
 0.0.0.0 juliamovies.videojav.org
+0.0.0.0 jurusbangsat.id
 0.0.0.0 kaidokdiaodwewarewe.site
 0.0.0.0 kasurbokep.com
 0.0.0.0 kebokepanku.fun
@@ -898,6 +913,7 @@
 0.0.0.0 livewell.net
 0.0.0.0 livewellmcallen.com
 0.0.0.0 logo.onlinewebstat.com
+0.0.0.0 loporewes.site
 0.0.0.0 lopweasdoeweadop.site
 0.0.0.0 m.javhd.com
 0.0.0.0 m.playmatewebcams.streamray.com
@@ -907,6 +923,7 @@
 0.0.0.0 managewebappsecureaccntswbsd8hoisdg.fdjw456udfhfdkg5.com
 0.0.0.0 managewebappsosdg90hoi3q2sdg.fdhjq45usdfgdfj.com
 0.0.0.0 mangaewebappasdgio90w3hiosdg.dfh35yhsdgdfhd.com
+0.0.0.0 many.xxx
 0.0.0.0 maturewebcams.com
 0.0.0.0 maxjav.com
 0.0.0.0 media9.kissjav.com
@@ -926,12 +943,15 @@
 0.0.0.0 motoviewer.ru
 0.0.0.0 movieweb.us.intellitxt.com
 0.0.0.0 myfreewebcam.org
+0.0.0.0 myguidewell.com
 0.0.0.0 myhdjav.com
 0.0.0.0 myhdjav.me
 0.0.0.0 myhdjav.net
 0.0.0.0 myjavbay.com
 0.0.0.0 naked-asian-porn.javsexonline.org
 0.0.0.0 nakedlivewebcams.com
+0.0.0.0 napavalley.com
+0.0.0.0 napavalley.wine
 0.0.0.0 narrowbroccoli.davidatrent.com
 0.0.0.0 nefernewellness.com
 0.0.0.0 netech.postaffiliatepro.com
@@ -975,6 +995,7 @@
 0.0.0.0 owpeoaidowepoqewe.site
 0.0.0.0 pasarbokep.com
 0.0.0.0 pastelink.net
+0.0.0.0 peju.com
 0.0.0.0 pejuhin.sbs
 0.0.0.0 pezporn.redjav.org
 0.0.0.0 phim-jav.vip
@@ -1009,6 +1030,8 @@
 0.0.0.0 politicalreviewer.com
 0.0.0.0 popjav.in
 0.0.0.0 popjav.tv
+0.0.0.0 poreweghy.site
+0.0.0.0 poreweretto.site
 0.0.0.0 porn-bokep.com
 0.0.0.0 porn68jav.com
 0.0.0.0 pornhub.baru-bokep.mom
@@ -1026,6 +1049,7 @@
 0.0.0.0 qc.ultraviewer.net
 0.0.0.0 quewebcams.com
 0.0.0.0 racceweeti.cyou
+0.0.0.0 radarbanyuwangi.jawapos.com
 0.0.0.0 rajabokep.biz
 0.0.0.0 realjav.pro
 0.0.0.0 redjav.in
@@ -1043,6 +1067,7 @@
 0.0.0.0 sa.entireweb.com
 0.0.0.0 saekojav.com
 0.0.0.0 salasdewebcams.com
+0.0.0.0 salonprivejeweler.com
 0.0.0.0 sayac.onlinewebstat.com
 0.0.0.0 sayac.onlinewebstats.com
 0.0.0.0 sbokep.site
@@ -1050,6 +1075,7 @@
 0.0.0.0 sebokep.vip
 0.0.0.0 secure.fleweemail.cc
 0.0.0.0 securityoauthroundcubewebmailsessio.vercel.app
+0.0.0.0 seweretyu.site
 0.0.0.0 sex-jav.net
 0.0.0.0 sex.javhay.click
 0.0.0.0 sexbokep.net
@@ -1078,11 +1104,13 @@
 0.0.0.0 situsbokep.icu
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 slim-jewel-5e4e.neerojdaya-finefurniture.workers.dev
+0.0.0.0 soloporewerty.com
 0.0.0.0 stacjavapera.com
 0.0.0.0 static.javhd.com
 0.0.0.0 static.javhdhello.com
 0.0.0.0 statics.jav-porn.net
 0.0.0.0 statics.javbuz.com
+0.0.0.0 suara.com
 0.0.0.0 subjav.live
 0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
@@ -1092,13 +1120,17 @@
 0.0.0.0 supjav.com
 0.0.0.0 supjavhd.com
 0.0.0.0 supjavx.com
+0.0.0.0 svet-scandal.rs
 0.0.0.0 svjav.com
 0.0.0.0 sys.jave.xyz
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t2vlxx.hotbokep-hotvideo.info
+0.0.0.0 tabbylinejewelry.com
 0.0.0.0 tantenakal.net
 0.0.0.0 techniczneweryfikacja24-ux.github.io
 0.0.0.0 teensfirstthreesome.com
+0.0.0.0 tempo.co
+0.0.0.0 terabox.com
 0.0.0.0 theblakewelt.shop
 0.0.0.0 thejavmost.com
 0.0.0.0 themjav.com
@@ -1123,6 +1155,7 @@
 0.0.0.0 track.aajewelry.de
 0.0.0.0 tracking.imagewebdesign.fr
 0.0.0.0 traderenewexpired.com
+0.0.0.0 tubesafari.com
 0.0.0.0 ukridgewell.com
 0.0.0.0 uncensoredjav.pro
 0.0.0.0 unionleisurewear.com
@@ -1148,6 +1181,7 @@
 0.0.0.0 viojav.cc
 0.0.0.0 viojav.com
 0.0.0.0 viralbokep.com
+0.0.0.0 visitnapavalley.com
 0.0.0.0 vjav-com.ru
 0.0.0.0 vjav.com
 0.0.0.0 vjav.info
